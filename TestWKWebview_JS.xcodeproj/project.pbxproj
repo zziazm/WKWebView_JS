@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		98368F231FFB6F1F000C65F2 /* 2.html in Resources */ = {isa = PBXBuildFile; fileRef = 98368F221FFB6F1F000C65F2 /* 2.html */; };
+		98368F251FFB70BD000C65F2 /* NativeApi.js in Resources */ = {isa = PBXBuildFile; fileRef = 98368F241FFB70BD000C65F2 /* NativeApi.js */; };
+		984673981FFB337D001C483A /* ThirdViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 984673971FFB337D001C483A /* ThirdViewController.m */; };
+		9846739A1FFB5D78001C483A /* 3.html in Resources */ = {isa = PBXBuildFile; fileRef = 984673991FFB5D77001C483A /* 3.html */; };
 		9894895D1FF5DD68005E4350 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 9894895C1FF5DD68005E4350 /* AppDelegate.m */; };
 		989489601FF5DD68005E4350 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9894895F1FF5DD68005E4350 /* ViewController.m */; };
 		989489631FF5DD68005E4350 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 989489611FF5DD68005E4350 /* Main.storyboard */; };
@@ -15,6 +19,10 @@
 		9894896B1FF5DD68005E4350 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 9894896A1FF5DD68005E4350 /* main.m */; };
 		989489751FF5DD68005E4350 /* TestWKWebview_JSTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 989489741FF5DD68005E4350 /* TestWKWebview_JSTests.m */; };
 		989489801FF5DD68005E4350 /* TestWKWebview_JSUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9894897F1FF5DD68005E4350 /* TestWKWebview_JSUITests.m */; };
+		9894898F1FF5DF08005E4350 /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9894898E1FF5DF08005E4350 /* FirstViewController.m */; };
+		989489911FF5E82E005E4350 /* test.html in Resources */ = {isa = PBXBuildFile; fileRef = 989489901FF5E82E005E4350 /* test.html */; };
+		98E46DEE1FF63D9A00882142 /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 98E46DED1FF63D9A00882142 /* SecondViewController.m */; };
+		98E46E121FF63E4E00882142 /* JSFile.html in Resources */ = {isa = PBXBuildFile; fileRef = 98E46E111FF63E4E00882142 /* JSFile.html */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +43,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		98368F221FFB6F1F000C65F2 /* 2.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = 2.html; sourceTree = "<group>"; };
+		98368F241FFB70BD000C65F2 /* NativeApi.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = NativeApi.js; sourceTree = "<group>"; };
+		984673961FFB337D001C483A /* ThirdViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ThirdViewController.h; sourceTree = "<group>"; };
+		984673971FFB337D001C483A /* ThirdViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ThirdViewController.m; sourceTree = "<group>"; };
+		984673991FFB5D77001C483A /* 3.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = 3.html; sourceTree = "<group>"; };
 		989489581FF5DD68005E4350 /* TestWKWebview_JS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestWKWebview_JS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9894895B1FF5DD68005E4350 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		9894895C1FF5DD68005E4350 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -51,6 +64,12 @@
 		9894897B1FF5DD68005E4350 /* TestWKWebview_JSUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestWKWebview_JSUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9894897F1FF5DD68005E4350 /* TestWKWebview_JSUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestWKWebview_JSUITests.m; sourceTree = "<group>"; };
 		989489811FF5DD68005E4350 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9894898D1FF5DF08005E4350 /* FirstViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FirstViewController.h; sourceTree = "<group>"; };
+		9894898E1FF5DF08005E4350 /* FirstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
+		989489901FF5E82E005E4350 /* test.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = test.html; sourceTree = "<group>"; };
+		98E46DEC1FF63D9A00882142 /* SecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
+		98E46DED1FF63D9A00882142 /* SecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
+		98E46E111FF63E4E00882142 /* JSFile.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = JSFile.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,7 +101,6 @@
 			isa = PBXGroup;
 			children = (
 				9894895A1FF5DD68005E4350 /* TestWKWebview_JS */,
-				989489731FF5DD68005E4350 /* TestWKWebview_JSTests */,
 				9894897E1FF5DD68005E4350 /* TestWKWebview_JSUITests */,
 				989489591FF5DD68005E4350 /* Products */,
 			);
@@ -101,10 +119,22 @@
 		9894895A1FF5DD68005E4350 /* TestWKWebview_JS */ = {
 			isa = PBXGroup;
 			children = (
+				98368F241FFB70BD000C65F2 /* NativeApi.js */,
+				98368F221FFB6F1F000C65F2 /* 2.html */,
+				984673991FFB5D77001C483A /* 3.html */,
+				98E46E111FF63E4E00882142 /* JSFile.html */,
+				989489901FF5E82E005E4350 /* test.html */,
 				9894895B1FF5DD68005E4350 /* AppDelegate.h */,
 				9894895C1FF5DD68005E4350 /* AppDelegate.m */,
 				9894895E1FF5DD68005E4350 /* ViewController.h */,
 				9894895F1FF5DD68005E4350 /* ViewController.m */,
+				9894898D1FF5DF08005E4350 /* FirstViewController.h */,
+				9894898E1FF5DF08005E4350 /* FirstViewController.m */,
+				98E46DEC1FF63D9A00882142 /* SecondViewController.h */,
+				98E46DED1FF63D9A00882142 /* SecondViewController.m */,
+				984673961FFB337D001C483A /* ThirdViewController.h */,
+				984673971FFB337D001C483A /* ThirdViewController.m */,
+				989489731FF5DD68005E4350 /* TestWKWebview_JSTests */,
 				989489611FF5DD68005E4350 /* Main.storyboard */,
 				989489641FF5DD68005E4350 /* Assets.xcassets */,
 				989489661FF5DD68005E4350 /* LaunchScreen.storyboard */,
@@ -238,9 +268,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				98368F251FFB70BD000C65F2 /* NativeApi.js in Resources */,
+				9846739A1FFB5D78001C483A /* 3.html in Resources */,
+				989489911FF5E82E005E4350 /* test.html in Resources */,
 				989489681FF5DD68005E4350 /* LaunchScreen.storyboard in Resources */,
 				989489651FF5DD68005E4350 /* Assets.xcassets in Resources */,
+				98E46E121FF63E4E00882142 /* JSFile.html in Resources */,
 				989489631FF5DD68005E4350 /* Main.storyboard in Resources */,
+				98368F231FFB6F1F000C65F2 /* 2.html in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -265,9 +300,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				98E46DEE1FF63D9A00882142 /* SecondViewController.m in Sources */,
 				989489601FF5DD68005E4350 /* ViewController.m in Sources */,
+				984673981FFB337D001C483A /* ThirdViewController.m in Sources */,
 				9894896B1FF5DD68005E4350 /* main.m in Sources */,
 				9894895D1FF5DD68005E4350 /* AppDelegate.m in Sources */,
+				9894898F1FF5DF08005E4350 /* FirstViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
